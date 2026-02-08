@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an aspiring software developer currently learning programming and exploring different technologies. I enjoy working on projects that help me improve my coding skills and understanding of development concepts. I am eager to gain experience and contribute to meaningful projects.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kc69567@gmail.com](mailto:kc69567@gmail.com)
